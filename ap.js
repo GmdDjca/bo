@@ -1,5 +1,3 @@
-//el del ordenador lole
-
 const Discord = require("discord.js");
 const Client = require('discord.js');
 
